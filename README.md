@@ -23,4 +23,5 @@
     
   # Users can access "my account" page
     Users can see the posts they have made and can choose whether to delete them
+    
     Users can change their password
